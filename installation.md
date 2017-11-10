@@ -1,8 +1,4 @@
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
-
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)Install on Ubuntu
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Install on Ubuntu
 
 https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+on+Ubuntu  
 `sudo apt-get install openjdk-8-jdk`  
@@ -17,7 +13,7 @@ update Jenkins
 `sudo aptitude update`  
 `sudo aptitude install jenkins`  
   
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)Install on RedHat/CentOS  
+- ![1589F0](https://placehold.it/15/1589F0/000000?text=+)Install on RedHat/CentOS  
 
 https://www.vultr.com/docs/how-to-install-jenkins-on-centos-7  
 `sudo yum install -y java-1.8.0-openjdk.x86_64`  
