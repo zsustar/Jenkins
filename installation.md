@@ -3,15 +3,15 @@
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) #Install on Ubuntu
-#https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+on+Ubuntu
-`sudo apt-get install openjdk-8-jdk
-wget -q -O - https://pkg.jenkins.io/debian/jenkins-ci.org.key | sudo apt-key add -
-sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'
-sudo apt-get update
-sudo apt-get install --no-install-recommends -y jenkins
-sudo apt-get clean`
-
-#update Jenkins
+#https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+on+Ubuntu  
+`sudo apt-get install openjdk-8-jdk`  
+`wget -q -O - https://pkg.jenkins.io/debian/jenkins-ci.org.key | sudo apt-key add -`  
+`sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'`  
+`sudo apt-get update`  
+`sudo apt-get install --no-install-recommends -y jenkins`  
+`sudo apt-get clean`  
+  
+#update Jenkins  
 sudo apt install aptitude
 sudo aptitude update
 sudo aptitude install jenkins
