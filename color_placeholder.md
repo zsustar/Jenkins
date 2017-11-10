@@ -1,0 +1,4 @@
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+- ![#2b2b2b](https://placehold.it/15/2b2b2b/000000?text=+) `#2b2b2b`
