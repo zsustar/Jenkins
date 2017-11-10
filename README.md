@@ -1,2 +1,2 @@
 # Jenkins
-Jenkins for Test
+About how to Install and Play Jenkins
